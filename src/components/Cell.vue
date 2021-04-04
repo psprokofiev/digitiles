@@ -1,7 +1,7 @@
 <template>
     <div class="cell relative-position full-width full-height rounded-borders row items-center text-white"
          :style="cellStyle">
-        <q-badge v-if="1===2" class="position-label absolute-top-right" color="grey-6" :label="label" />
+        <!-- <q-badge class="position-label absolute-top-right" color="grey-6" :label="label" /> -->
         <transition enter-active-class="animated zoomIn"
                     leave-active-class="animated zoomOut"
                     appear>
