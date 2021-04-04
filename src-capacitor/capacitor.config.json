@@ -1,0 +1,7 @@
+{
+  "appId": "ru.digitiles.com",
+  "appName": "ru.digitiles.com",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
